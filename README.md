@@ -1,10 +1,10 @@
-# oddball-code-challenge-repo-1765981042679-name-mobile-front-end-engineer
+# donovan-mobile-tech-challenge-012826
 
 # Coding Challenge
 
 ## Problem Description
 
-Hi <Name>, this coding challenge is for the Mobile Front End Engineer position. Your task is to create a simple mobile application using React Native that interacts with users.
+Hi Regina, this coding challenge is for the Mobile Front End Engineer position. Your task is to create a simple mobile application using React Native that interacts with users.
 
 ## Requirements
 
